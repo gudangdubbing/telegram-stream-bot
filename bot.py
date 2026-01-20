@@ -1,8 +1,8 @@
 from pyrogram import Client, filters
 
-api_id = 123456
-api_hash = "API_HASH"
-bot_token = "BOT_TOKEN"
+api_id = 36913469
+api_hash = "6e3485759824023ab5b303e4c7271948"
+bot_token = "8564107690:AAFt_ACrM6atWoi6jILHqi64sGi0LOKA0BM"
 
 app = Client(
     "bot",
