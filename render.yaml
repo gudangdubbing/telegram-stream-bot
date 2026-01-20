@@ -1,0 +1,6 @@
+services:
+  - type: worker
+    name: telegram-stream-bot
+    runtime: python
+    startCommand: python bot.py
+    
